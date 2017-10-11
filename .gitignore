@@ -1,0 +1,14 @@
+*.iml
+.idea
+*.1
+*.2
+*.3
+*.4
+*.log
+logs
+target
+*.ipr
+*.iws
+logfile
+*.bat
+.DS_Store
